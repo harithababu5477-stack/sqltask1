@@ -43,5 +43,3 @@ Technologies Used
 Purpose
 This project was created as a beginner-level SQL practice project to strengthen understanding of database design, table creation, and data manipulation command.
 
-
-Just tell me 😊
